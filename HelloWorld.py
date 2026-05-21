@@ -1,1 +1,1 @@
-print("ET0725 - DevOps")
+print("ET0725 - DevOps is a DCPE module")
